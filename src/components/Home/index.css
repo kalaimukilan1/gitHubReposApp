@@ -1,0 +1,27 @@
+.home-bg-container {
+  padding: 5px;
+}
+
+.starred-repo-container {
+  border: 3px solid grey;
+  border-radius: 10px;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.most-starred-head {
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 35px;
+  text-align: center;
+  color: grey;
+}
+
+.repository-item-ul {
+  padding-left: 0px;
+}
+
+.navigation-button-container {
+  display: flex;
+  justify-content: center;
+}
